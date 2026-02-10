@@ -57,12 +57,11 @@ Tenho um canal no Tiktok onde compartilho ensinamentos simples para instigar o a
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=oaugustocode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaugustocode&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
-
+  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oaugustocode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oaugustocode&theme=tokyonight&custom_title=Tecnologias&langs_count=9" />
 
 </p>
+
 
 
   
