@@ -2,8 +2,7 @@
 
 **`Desenvolvedor Backend | Segurança da Informação | Desenvolvimentos Web`**
 
-Me chamo Matheus Augusto Gomes de Andrade, tenho 19 anos e estou no 3º termo da faculdade de T.A.D.S no Unisalesiano(Araçatuba) sou entusiasta na área de Segurança, Cibersegurança e Desenvolvimento voltado para Web.
-Tenho um canal no Tiktok onde compartilho ensinamentos simples para instigar o aprendizado de outrens "[augustocode](https://www.tiktok.com/@augustocode?_r=1&_t=ZS-93oO0Hn1Day)"
+Desenvolvedor backend focado em Segurança da Informação, **LGPD** e Desenvolvimento Web. Estudante de T.A.D.S no Unisalesiano (Araçatuba), com interesse em cibersegurança, arquitetura de aplicações e boas práticas de código. Produzo conteúdos educativos no TikTok através do perfil @augustocode, ajudando outros estudantes a evoluírem na área de tecnologia. "[augustocode](https://www.tiktok.com/@augustocode?_r=1&_t=ZS-93oO0Hn1Day)"
 
 ### 🤖 Linguagens e Tecnologias
 
