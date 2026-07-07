@@ -1,8 +1,12 @@
 # 🧑‍💻 Matheus Augusto
 
-**`Desenvolvedor Backend | Segurança da Informação | Desenvolvimentos Web`**
+**`Desenvolvedor Backend | Engenharia de Software`**
 
-Desenvolvedor backend focado em Segurança da Informação, **LGPD** e Desenvolvimento Web. Estudante de ADS no Unisalesiano (Araçatuba), com interesse em cibersegurança, arquitetura de aplicações e boas práticas de código. Produzo conteúdos educativos no TikTok através do perfil @augustocode, ajudando outros estudantes a evoluírem na área de tecnologia. "[augustocode](https://www.tiktok.com/@augustocode?_r=1&_t=ZS-93oO0Hn1Day)"
+# Boa!! Me chamo Matheus Augusto
+# Estudante da faculdade de A.D.S no Unisalesiano Araçatuba do 4° semestre / Desenvolvedor focado em Engenharia de Software
+# No momento sou iniciante com experiências na faculdade e aprofundando conhecimentos em Python
+
+
 
 ### 🤖 Linguagens e Tecnologias
 
