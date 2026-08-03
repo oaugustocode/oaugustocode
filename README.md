@@ -19,7 +19,7 @@ Apaixonado pelo o que faço, através de analisar problemas e solucionar eles de
 
 </div>
 
----
+
 ## 📫 Contato
 
 <div align="center">
@@ -34,7 +34,7 @@ Apaixonado pelo o que faço, através de analisar problemas e solucionar eles de
 
 </div>
 
----
+
 
 <div align="center">
 
