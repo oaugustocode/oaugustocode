@@ -11,11 +11,7 @@ Apaixonado pelo o que faço, através de analisar problemas e solucionar eles de
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4EA1FF&center=true&vCenter=true&width=500&lines=Python+Developer;JavaScript+Developer;Sempre+aprendendo+algo+novo." />
 
 </div>
-
 ---
-
----
-
 ## 🛠️ Tecnologias
 
 <div align="center">
