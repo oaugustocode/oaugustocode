@@ -28,9 +28,6 @@ Apaixonado pelo o que faço, através de analisar problemas e solucionar eles de
 <img src="https://github-readme-streak-stats.herokuapp.com?user=oaugustocode&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
 ---
 
 ## 📫 Contato
