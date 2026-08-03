@@ -12,7 +12,6 @@ Apaixonado pelo o que faço, através de analisar problemas e solucionar eles de
 
 </div>
 ---
-## 🛠️ Tecnologias
 
 <div align="center">
 
