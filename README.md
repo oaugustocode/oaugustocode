@@ -14,13 +14,6 @@ Apaixonado pelo o que faço, através de analisar problemas e solucionar eles de
 
 ---
 
-## 🚀 Sobre mim
-
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** No Unisalesiano Araçatuba
-- 💻 Atualmente estudando **Python**, **JavaScript** e **MySQL**
-- 🌱 Aprendendo desenvolvimento **Backend**
-- 🎯 Objetivo: atuar como Desenvolvedor Full Stack
-
 ---
 
 ## 🛠️ Tecnologias
