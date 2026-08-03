@@ -37,9 +37,9 @@ Apaixonado pelo o que faço, através de analisar problemas e solucionar eles de
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=oaugustocode&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaugustocode&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -54,18 +54,6 @@ Apaixonado pelo o que faço, através de analisar problemas e solucionar eles de
 </div>
 
 ---
-
-## 🎯 Atualmente focado em
-
-🐍 Python
-
-⚡ JavaScript
-
-🗄️ MySQL
-
-🌐 Desenvolvimento Web
-
-📚 Estrutura de Dados
 
 ---
 
@@ -89,6 +77,6 @@ Apaixonado pelo o que faço, através de analisar problemas e solucionar eles de
 
 ### ⭐ Obrigado pela visita!
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=oaugustocode&style=for-the-badge&color=blue"/>
 
 </div>
