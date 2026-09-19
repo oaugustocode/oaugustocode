@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Augusto
-### 🚀 Desenvolvedor Backend
+# Matheus Augusto
+### Desenvolvedor Backend
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4EA1FF&center=true&vCenter=true&width=500&lines=Python+%7C+APIs+%7C+Banco+de+Dados;Arquitetura+limpa+e+eficiente;Explorando+novas+tecnologias." alt="Typing SVG" />
 
@@ -17,15 +17,6 @@
 </div>
 
 ---
-
-### 👨‍💻 Sobre Mim
-
-- 🔭 Focado no desenvolvimento de soluções backend robustas, escaláveis e bem estruturadas.
-- 💡 Apaixonado por analisar desafios complexos e transformá-los em código limpo e arquitetado.
-- 📚 Constantemente aprimorando conhecimentos em boas práticas de software, APIs RESTful e modelagem de dados.
-
----
-
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
