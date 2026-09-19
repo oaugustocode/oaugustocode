@@ -35,23 +35,18 @@
 </div>
 
 ---
+---
 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=oaugustocode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do Augusto" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oaugustocode&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=oaugustocode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
+
+  <img height="165em" src="https://github-readme-stats.shion.dev/api?username=oaugustocode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do Augusto" />
+  <img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=oaugustocode&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=oaugustocode&style=flat-square&color=007ec6&label=VISITANTES" alt="Contador de visitas" />
-
-<br>
-<sub>Obrigado por visitar meu perfil! ☕</sub>
-
 </div>
