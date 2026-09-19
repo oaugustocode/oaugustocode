@@ -40,17 +40,22 @@
 
 <div align="center">
 
-  <a href="https://github.com/oaugustocode">
-    <img height="180em" src="https://streak-stats.demolab.com?user=oaugustocode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <!-- Cartão de Sequência / Streak -->
+  <img height="175" src="https://streak-stats.demolab.com?user=oaugustocode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br><br>
 
- 
-  <a href="https://github.com/oaugustocode">
-    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oaugustocode&theme=tokyonight" alt="Perfil Detalhado" />
-    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oaugustocode&theme=tokyonight" alt="Linguagens mais commitadas" />
-  </a>
+  <!-- Tabela de Alinhamento Lado a Lado -->
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img height="210" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oaugustocode&theme=tokyonight" alt="Perfil Detalhado" />
+      </td>
+      <td align="center" width="50%">
+        <img height="210" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oaugustocode&theme=tokyonight" alt="Linguagens mais commitadas" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 </div>
