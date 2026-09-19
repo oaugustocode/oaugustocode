@@ -37,16 +37,23 @@
 ---
 ---
 
+---
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
 
-  <img height="180em" src="https://streak-stats.demolab.com?user=oaugustocode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
+  <a href="https://github.com/oaugustocode">
+    <img height="180em" src="https://streak-stats.demolab.com?user=oaugustocode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+
   <br><br>
 
-  <img height="165em" src="https://github-readme-stats.shion.dev/api?username=oaugustocode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do Augusto" />
-  <img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=oaugustocode&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+ 
+  <a href="https://github.com/oaugustocode">
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oaugustocode&theme=tokyonight" alt="Perfil Detalhado" />
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oaugustocode&theme=tokyonight" alt="Linguagens mais commitadas" />
+  </a>
 
 </div>
 </div>
