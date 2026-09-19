@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,mysql" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,javascript,mysql,git" alt="Tech Stack" />
 
 </div>
 
