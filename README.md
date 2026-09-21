@@ -1,13 +1,10 @@
 <div align="center">
 
-# Matheus Augusto
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=200&section=header&text=Matheus%20Augusto&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn" width="100%" alt="Banner">
+
 ### Desenvolvedor Backend
 
 <br>
-
-<img src="./nuvem.jpg" alt="Pixel Art" width="650" />
-
-<br><br>
 
 <p align="center">
   <a href="https://linkedin.com/in/augusto-code" target="_blank">
@@ -22,15 +19,15 @@
 
 ---
 
-###  Sobre Mim
+### Sobre Mim
 
--  Cursando o 4º termo de **Análise e Desenvolvimento de Sistemas** no **Unisalesiano Araçatuba**.
--  Atualmente construindo projetos para me aprofundar em desenvolvimento web com **Flask**, **SQLAlchemy** e **PostgreSQL**.
--  Focado em construir aplicações bem estruturadas, arquitetura limpa e resolução de problemas reais com código eficiente.
+- Cursando o 4º termo de **Análise e Desenvolvimento de Sistemas** no **Unisalesiano Araçatuba**.
+- Atualmente construindo projetos para me aprofundar em desenvolvimento web com **Flask**, **SQLAlchemy** e **PostgreSQL**.
+- Focado em construir aplicações bem estruturadas, arquitetura limpa e resolução de problemas reais com código eficiente.
 
 ---
 
-###  Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -40,9 +37,8 @@
 
 ---
 
-###  Projetos em Destaque
+### Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | **[SGPA-CAPS](https://github.com/oaugustocode/SGPA-CAPS)** | Aplicação para gestão e consulta de prontuários físicos antigos do CAPS. Possui busca otimizada com debounce, organização por caixas arquivísticas e suporte a acessibilidade para daltonismo. | `Python` `CustomTkinter` `SQLite` |
-
