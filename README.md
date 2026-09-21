@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="./nuvem.jpg" alt="Pixel Art" width="100%" />
+<img src="./nuvem.jpg" alt="Pixel Art" width="650" />
 
 <br><br>
 
