@@ -3,8 +3,6 @@
 # Matheus Augusto
 ### Desenvolvedor Backend
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4EA1FF&center=true&vCenter=true&width=500&lines=Python+%7C+APIs+RESTful+%7C+SQL;Foco+em+arquitetura+limpa+e+escalabilidade;Sempre+buscando+resolver+problemas+reais." alt="Typing SVG" />
-
 <p align="center">
   <a href="https://linkedin.com/in/augusto-code" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,9 +18,9 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🔭 Estudante do 4° termo de Análise Desenvolvimento de Sistemas no Unisalesiano Araçatuba
-- 📚 Atualmente aprofundando em Python para WEB utilizando Flask, SQLAlchemy e Postgreesql.
-- 💬 Veja meus projetos públicos 
+- 🎓 Cursando o 4º termo de **Análise e Desenvolvimento de Sistemas** no **Unisalesiano Araçatuba**.
+- 🚀 Atualmente construindo projetos para me aprofundar em desenvolvimento web com **Flask**, **SQLAlchemy** e **PostgreSQL**.
+- 💡 Focado em construir aplicações bem estruturadas, arquitetura limpa e resolução de problemas reais com código eficiente.
 
 ---
 
@@ -30,13 +28,7 @@
 
 <div align="center">
 
-<!-- Linguagens & Frameworks -->
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,js,nodejs" alt="Linguagens & Frameworks" />
-<br>
-<!-- Banco de Dados, DevOps & Ferramentas -->
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github" alt="Banco de dados e Ferramentas" />
-
-*(Ajuste os ícones acima de acordo com o que você realmente utiliza no dia a dia)*
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github" alt="Tech Stack" />
 
 </div>
 
@@ -46,7 +38,7 @@
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[SGPA-CAPS](https://github.com/oaugustocode/SGPA-CAPS)** | API REST desenvolvida para gerenciamento de X com autenticação JWT e documentação Swagger. | `Python` `sqlite` 
+| **[SGPA-CAPS](https://github.com/oaugustocode/SGPA-CAPS)** | Aplicação para gestão e consulta de prontuários físicos antigos do CAPS. Possui busca otimizada com debounce, organização por caixas arquivísticas e suporte a acessibilidade para daltonismo. | `Python` `CustomTkinter` `SQLite` |
 
 ---
 
