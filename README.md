@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=200&section=header&text=Matheus%20Augusto&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn" width="100%" alt="Banner">
 
-### Desenvolvedor Backend
+### Engenheiro de Software
 
 <br>
 
@@ -22,7 +22,7 @@
 ### Sobre Mim
 
 - Cursando o 4º termo de **Análise e Desenvolvimento de Sistemas** no **Unisalesiano Araçatuba**.
-- Atualmente construindo projetos para me aprofundar em desenvolvimento web com **Flask**, **SQLAlchemy** e **PostgreSQL**.
+- Atualmente construindo projetos para me aprofundar em desenvolvimento web com **FastAPI**, **SQLAlchemy** e **PostgreSQL**.
 - Focado em construir aplicações bem estruturadas, arquitetura limpa e resolução de problemas reais com código eficiente.
 
 ---
