@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,50:1C2541,100:3A506B&height=200&section=header&text=Matheus%20Augusto&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn" width="100%" alt="Banner">
 
-### Engenheiro de Software
+### Desenvolvedor Backend
 
 <br>
 
