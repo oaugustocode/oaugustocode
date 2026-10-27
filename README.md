@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,postgres,git,github" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,git,github" alt="Tech Stack" />
 
 </div>
 
